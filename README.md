@@ -1,2 +1,2 @@
 # tab-news
-treinamento plataforma Tab news from zero
+ plataforma Tab news
